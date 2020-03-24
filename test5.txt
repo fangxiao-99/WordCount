@@ -1,0 +1,4 @@
+FangXiao Hello
+wc main
+ability
+faith
